@@ -1,0 +1,35 @@
+title: Portfolio
+description: An overview of work across risk analysis, consulting, analytics, and operational strategy.
+# This hostname was approved for the redacted public release.
+url: https://donteatberkeley.github.io
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Experience
+    url: /experience/
+  - title: Contact
+    url: /contact/
+
+exclude:
+  - README.md
+  - PLAN.md
+  - replit.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - attached_assets
+  - .agents
+  - .cache
+  - .conversation
+  - .local
+  - .replit
+  - .replitignore
+  - .gitignore
