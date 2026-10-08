@@ -1,0 +1,22 @@
+# Jekyll output and local dependencies
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/
+Gemfile.lock
+
+# Replit-only files and uploaded source material
+.agents/
+.cache/
+.conversation/
+.local/
+attached_assets/
+.replit
+.replitignore
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
